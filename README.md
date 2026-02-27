@@ -135,7 +135,7 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 
 - **David Ramalho Teixeira de Carvalho** 
 - GitHub - [davidrtc14](https://github.com/davidrtc14)
-- LinkedIn - [David Carvalho](www.linkedin.com/in/davidrtc14)
+- LinkedIn - [David Carvalho](https://www.linkedin.com/in/davidrtc14/)
 - Email - [davidrtc14@gmail.com](mailto:davidrtc14@gmail.com)
 ## License
 
